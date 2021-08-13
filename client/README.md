@@ -1,4 +1,4 @@
 #### Spotify API 연습하기
 
-https://www.notion.so/1-fd3cdb11465e4ecaa9e506d665cbba88
+https://www.notion.so/1-a5c632b761774db681b0900db3943768
 
